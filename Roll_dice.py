@@ -1,3 +1,9 @@
 import random  
 roll = random.randint(1,6)
-print("The computer rolled a " + str(roll))
+
+user_input= int(input("Guess the dice number: \n"))
+
+if user_input == roll:
+    print("You are correct!")
+else:
+    print("Wrong! The computer rolled " + str(roll))
