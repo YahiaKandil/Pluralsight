@@ -1,3 +1,4 @@
+
 current_movies =   {'The Grinch':'11:00 am',
                     'Runolph':'1:00 pm',
                     'Frosty the snowman': '3:00 pm',
