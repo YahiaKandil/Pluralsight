@@ -1,3 +1,4 @@
+
 # Get the loan details
 money_owed = float(input("\nHow much money do you owe? \n\n"))
 apr = float(input("\nWhat is annual percentage rate?\n\n"))
